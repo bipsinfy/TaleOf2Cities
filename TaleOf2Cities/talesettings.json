@@ -1,0 +1,9 @@
+{
+  "TaleSettings": {
+    "inputFileName": "A Tale of Two Cities - Charles Dickens.txt",
+    "searchKeyword": "apartment",
+    "KthTopOrderWordPosition": 5,
+    "OutputFileNamePrefix": "ProcessedFile"
+  }
+
+}
